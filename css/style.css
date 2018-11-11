@@ -1,0 +1,19 @@
+.imagefit{
+	width:100%;
+}
+.my-card-title{
+	font-style:italic;
+	color: green;
+}
+.card1{
+	color:green;
+}
+body{
+	background-color:#99ffcc;
+}
+.my-font{
+	font-family: 'Dancing Script', cursive;
+}
+.cardmargin{
+	margin-bottom: 12px;
+}
